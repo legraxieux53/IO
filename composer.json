@@ -1,0 +1,20 @@
+{
+    "name": "legracieux53/io",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nehemie Konan",
+            "email": "nehemiekonan535@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.6.*"
+    },
+    "autoload" : {
+        "psr-4" : {
+            "Lnl\\IO\\" : "src/"
+        }
+    }
+}
