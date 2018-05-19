@@ -233,7 +233,7 @@ class File
 				{
 					$dir_recursive .= $partsA[$i];
 				} 
-				else 
+				else  
 				{
 					$dir_recursive .= "/";
 					$dir_recursive .= $partsA[$i];
